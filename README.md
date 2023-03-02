@@ -16,7 +16,6 @@ Password: papasaakothissem <br/>
 [CC104 Quizlet Reviewer](https://quizlet.com/779396043/cc104-midterms-oop-nodes-flash-cards/)
 Password: datastructuresandalgoselfstudylang
 
-# Addons
 <!-- 
 <a class="github-button" href="https://github.com/janzengo" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @janzengo on GitHub">Follow @janzengo</a>
 -->
