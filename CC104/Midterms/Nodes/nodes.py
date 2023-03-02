@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self, value):
-        self.value = value
-        self.link_node = None
+    def __init__(self, value, link_node=None):
+    self.value = value
+    self.link_node = link_node
 
     def set_link_node(self, node):
         self.link_node = node
