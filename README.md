@@ -11,3 +11,4 @@
 # Resources (To be updated)
 ### Midterms
 [CC103 Quizlet Reviewer](https://quizlet.com/778497859/cc103-introduction-to-computer-programming-midterms-flash-cards/)
+Password: papasaakothissem
