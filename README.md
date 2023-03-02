@@ -1,6 +1,6 @@
 <div align="center">
   
-# CC103 Project Codes
+# CC103/CC104 Codes
   
   </div>
 - Note that the package names varies depending on your preferences in your local machine. <br>
