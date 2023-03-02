@@ -17,4 +17,6 @@ Password: papasaakothissem <br/>
 Password: datastructuresandalgoselfstudylang
 
 # Addons
+<!-- 
 <a class="github-button" href="https://github.com/janzengo" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @janzengo on GitHub">Follow @janzengo</a>
+-->
