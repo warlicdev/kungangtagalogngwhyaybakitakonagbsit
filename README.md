@@ -9,9 +9,15 @@
 - Please do not use these for unreasonable and irrational endeavors. Once caught, this repository will automatically be deleted. <br>
 - All of the students who have access to this repository have the power to contribute.
 
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/janzengo" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @janzengo on GitHub">Follow @janzengo</a>
+
 # Resources (To be updated)
 ### Midterms
 [CC103 Quizlet Reviewer](https://quizlet.com/778497859/cc103-introduction-to-computer-programming-midterms-flash-cards/)
 Password: papasaakothissem <br/>
 [CC104 Quizlet Reviewer](https://quizlet.com/779396043/cc104-midterms-oop-nodes-flash-cards/)
 Password: datastructuresandalgoselfstudylang
+
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
