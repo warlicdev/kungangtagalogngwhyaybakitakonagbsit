@@ -13,3 +13,5 @@
 ### Midterms
 [CC103 Quizlet Reviewer](https://quizlet.com/778497859/cc103-introduction-to-computer-programming-midterms-flash-cards/)
 Password: papasaakothissem
+[CC104 Quizlet Reviewer](https://quizlet.com/779396043/cc104-midterms-oop-nodes-flash-cards/)
+Password: datastructuresandalgoselfstudylang
